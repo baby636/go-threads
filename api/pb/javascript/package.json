@@ -17,7 +17,7 @@
   "dependencies": {
     "@improbable-eng/grpc-web": "^0.13.0",
     "@types/google-protobuf": "^3.7.3",
-    "google-protobuf": "^3.13.0"
+    "google-protobuf": "^3.17.3"
   },
   "devDependencies": {
     "ts-protoc-gen": "^0.13.0"
