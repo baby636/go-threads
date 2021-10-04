@@ -15,7 +15,7 @@
     "threads_pb_service.d.ts"
   ],
   "dependencies": {
-    "@improbable-eng/grpc-web": "^0.13.0",
+    "@improbable-eng/grpc-web": "^0.14.1",
     "@types/google-protobuf": "^3.7.3",
     "google-protobuf": "^3.13.0"
   },
